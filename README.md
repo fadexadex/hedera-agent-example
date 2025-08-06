@@ -36,8 +36,11 @@ A complete full-stack application for interacting with the Hedera blockchain thr
 
 ### **1. Clone & Setup**
 ```bash
+#clone the project
+git clone https://github.com/fadexadex/hedera-agent-example.git
+
 # Navigate to the project directory
-cd typescript/examples/nextjs-express
+cd hedera-agent-example
 ```
 
 ### **2. Backend Setup**
