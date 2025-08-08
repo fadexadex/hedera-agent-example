@@ -1,7 +1,7 @@
 # Template Hedera Agent Kit - Next.js + Express Full Stack
 
 A complete full-stack application for interacting with the Hedera blockchain through AI agents. Features a modern React frontend with a powerful Express backend.
-### **Video Walkthrough** - [Click Here](https://portal.hedera.com/register)
+### **Video Walkthrough** - [Click Here](https://youtu.be/R00j5nwAnS8?si=SuYWkwz8ZHvQFOAU)
 
 ## 🚀 Features
 
